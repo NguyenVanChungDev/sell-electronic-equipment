@@ -1,0 +1,19 @@
+.img1{
+     width: 30% !important;
+     margin: 32px auto 40px;
+     padding-bottom: 117px;
+}
+.img2{
+     width: 23%;
+     margin: 32px auto 40px;
+     padding-bottom: 84px;
+
+}
+.carousel h3,
+.carousel p{
+     color: rgb(233, 64, 42);
+     /* margin-top: 60px; */
+}
+.carousel .xh3 {
+     /* padding-bottom: 25px; */
+}
